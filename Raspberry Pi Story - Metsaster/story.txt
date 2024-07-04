@@ -23,6 +23,11 @@ Although it seemed innocent, it seems there was something a lot more sinister go
 
 ----
 
-CHAPTER 2 – The attack
+CHAPTER 2 – The attack?
 
-for next arcade session…
+As Gary entered the office in the morning, something seemed off. He couldn’t quite his finger on what it was though. Was it that the computer system had gone down? Was it that his room had suddenly become an artic. He wasn’t quite sure. 
+
+Due to the insanely cold air coming from his office, he had to work elsewhere today. As he opened his laptop and checked his emails, he was greeted with thousands of “Hi, Gary. Do you like what I’ve done to the place? It’s much better suited to the environment I like. COLD.”. Immediately after spotting these emails, he logged a case with IT. At first, they couldn’t completely track down the origin, but knew these messages came from one place. His office. His office finally warmed up (only after they left it for a few hours and the Silicon Valley heat got to it). He started investigating, throughout the remainder of the day, and he still couldn’t put his finger on what caused his room to cool down. At least until he forgot the message that appeared on screen last night. 
+
+He got the IT team to investigate the network traffic that was incoming and outcoming from the Pis. The team determined that the Pis were constantly sending random messages to devices across HQ. No one had reported anything though, which seemed strange to everyone. Not just him. 
+
