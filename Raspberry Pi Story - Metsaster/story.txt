@@ -1,0 +1,28 @@
+CHAPTER 0 – The Pi’s are doing WHAT??!!!
+
+It was all over the news. All over every social platform. How could one event have such a massive impact on the world? This wasn’t any event. It would be the event that would change the world and technology, forever.
+
+
+CHAPTER 1 – The days before
+
+“Good morning”, Gary said as he walked happily through the Meta reception desk at Menlo Park. The receptionists greeted him back in a happy tone. At this point, they were all oblivious of the chaos that would (eventually) happen at the Meta HQ and spread all over the world within a matter of hours. 
+
+Gary was a small but smart man. He was able to write code quicker than anyone else at Meta, and pushed more commits into GitHub than any other employee. He had once been a student at Oxford University in the UK but decided to move to America due to the lack of tech companies in his home country. It wasn’t difficult for him to get a job there however, as he passed every interview (from phone to code) with flying colours. He had helped develop features that have promoted Facebook over the years, from the Status Updates, and Reels. 
+
+He proceeded to walk into his office, which was one of the finest on campus. Not only had previous executives worked in that office, but it also even had it’s own private bathroom. This week they were planning to implement a rack of Raspberry Pi 5’s to power his office’s smart lights and other various devices (like his random air quality sensor he had received from a Chinese IoT pack ages ago and hooked up to an Arduino R3). In total, his package came with three Pis. They had even managed to custom engineer him a gaming style case that fit all three. 
+
+Throughout the day, he set up Home Assistant along with multiple servers so he could connect outside the office, and nearly tore his hair out when one of the Pis stopped connecting to the internet. He knew that Pis were trouble but didn’t know they were this bad. 
+
+As 5pm drew closer, he had not only completed his full server rack, but had also completed all of his work for that day. Gary is known to be extremely productive at times and remains motivated through the most difficult of things.
+
+The day finally ended, and he headed home. On his way out, he switched off all the lights, but kept his Pis on so he could monitor his cameras, air quality and temperature remotely. As he left though, he noticed that the lights started to flash slightly and the words “Hi Gary. I can see you.” appeared on the server display. He ignored it and continued, telling himself that he’d get to it tomorrow. 
+
+----
+
+Although it seemed innocent, it seems there was something a lot more sinister going on here. After the HQ had shut that night, the Pi turned the temperature control off, and got ready to prepare it’s attack that would eventually meet Gary tomorrow. Read on if you wish to (at your own risk of course).
+
+----
+
+CHAPTER 2 – The attack
+
+for next arcade session…
