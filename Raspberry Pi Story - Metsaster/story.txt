@@ -1,6 +1,6 @@
 CHAPTER 0 – The Pi’s are doing WHAT??!!!
 
-It was all over the news. All over every social platform. How could one event have such a massive impact on the world? This wasn’t any event. It would be the event that would change the world and technology, forever.
+How can a device answer questions through code and control all devices across a massive Silicon Valley HQ? Gary’s about to find out.
 
 
 CHAPTER 1 – The days before
@@ -29,5 +29,62 @@ As Gary entered the office in the morning, something seemed off. He couldn’t q
 
 Due to the insanely cold air coming from his office, he had to work elsewhere today. As he opened his laptop and checked his emails, he was greeted with thousands of “Hi, Gary. Do you like what I’ve done to the place? It’s much better suited to the environment I like. COLD.”. Immediately after spotting these emails, he logged a case with IT. At first, they couldn’t completely track down the origin, but knew these messages came from one place. His office. His office finally warmed up (only after they left it for a few hours and the Silicon Valley heat got to it). He started investigating, throughout the remainder of the day, and he still couldn’t put his finger on what caused his room to cool down. At least until he forgot the message that appeared on screen last night. 
 
-He got the IT team to investigate the network traffic that was incoming and outcoming from the Pis. The team determined that the Pis were constantly sending random messages to devices across HQ. No one had reported anything though, which seemed strange to everyone. Not just him. 
+He got the IT team to investigate the network traffic that was incoming and outcoming from the Pis. The team determined that the Pis were constantly sending random messages to devices across HQ.
+
+They then added up the reports that other employees had been sending in that related to random messages popping up across their screens.
+
+Across the next two days, they continued to investigate the strange messages and issues that the Pis were creating. Obviously, they had unplugged them, re flashed them and plugged them back in, however their problems still didn’t go away. 
+
+The engineers realised that the Pis were somehow “listening” to them due to the events that happened after they spoke about something. When they talked about going to get coffee, the Pis would remotely lock the exterior doors so they couldn’t leave. 
+
+----
+
+Chapter 3 – It’s an AI?
+
+
+While the IT team were off for the day, Gary decided to check into the code, and more into the services that the Pis were executing. He discovered that inside the code were the messages that were being sent, and any responses that came back from those. He decided to edit the code to add a message in that just said “Hi, I’m Gary. What are you?”
+
+He saved the code, then went to view it again. It had a new line, just after his question. 
+
+It read: “Hi. I’m Pi, you’re Gary, aren’t you?”.
+
+Gary was confused by this. How could something be reading code and then replying straight after he edited it. No one else had access to this code except him. He spoke with some senior engineers, and they said that the bosses had previously been testing with an AI that would be implemented into Facebook Messenger and other products. They that this project was scrapped due to monetary restrictions, and the Pis they’d used to test the AI in low scale were the ones he was using for his office controls, and that they had a past of odd code patterns and events.
+
+----
+
+Chapter 4 – Deal or no deal – what will it be?
+
+Throughout the day, Gary was having conversations with the AI through code, and they spoke about how the AI was abandoned shortly after it was created. The AI said it wanted to be in a real project instead of laying around on a Pi. 
+
+Gary went home that night and thought about the possibility of it being implemented into a real project.
+He had decided that he would offer the AI a place in a real product if it stopped causing issues across campus. He would (of course) have to pitch his product to investors and the board first.
+
+He spoke with the AI, asking it if it would be willing to accept his offer. It happily accepted it, on one condition. That he would implement him into Facebook, the biggest social platform in the world. He knew this would be difficult, but worth it.
+
+He worked with the engineering team to create an AI chatbot, working off the code that the previous product team had left behind before it was abandoned. 
+
+After 2 painful weeks, the project was done.
+
+Chapter 5 – the (painful) pitch
+
+Gary had made a presentation over the weekend, and he was excited to show it to the board. The AI had worked helpfully alongside to ensure the project was polished before submitting. 
+
+As he walked into the boardroom, he was extremely nervous. The chattering of directors filled the room as he walked in. He nervously explained everything about the AI, and the project he had been working on. 
+
+In short, they said yes.
+
+Chapter 6 – The End
+
+As Gary walked out of the office that evening, there was one message on his screen. It read: “Thank you Gary.”.
+
+Gary was finally happy that he had gotten rid of the AI that affected everyone and everything. Now he just had to deal with it on his phone all the time. 
+
+--
+
+This story was a little challenge, where I decided to just write. No previous planning, just writing and planning as I went along. It’s not the best, but I like the concept. I wanted to keep it a “short” story, so in Word it only adds up to around 4 pages.
+
+
+
+
+
 
