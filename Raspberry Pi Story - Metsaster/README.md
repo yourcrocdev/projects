@@ -1,1 +1,0 @@
-I felt creative, so thought of a random thing to write about. Decided to write this. Hope you enjoy - I haven't really thought of a title tbf. Parts of this story are a bit odd but I wanted it to be like that. :) 
